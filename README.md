@@ -1,6 +1,8 @@
 # Master-project
 Master project: "Hierarchical multiclass supervised classification of metabarcoded environmental DNA in a forensic context"
 
+The main file (hierarchical_model.R) contains the code for the hierarchical kNN model, the other two file are self-build functions to prepare the data as input, indcluding the normalisation of the input data. 
+
 ABSTRACT:
 
 Forensic ecology is a constantly developing field and provides new possibilities to find evidence
