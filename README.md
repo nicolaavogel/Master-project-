@@ -1,7 +1,7 @@
 # Master-project
 Master project: "Hierarchical multiclass supervised classification of metabarcoded environmental DNA in a forensic context" 
 
-This projects was completed at the Department of GeoGenetics, GLOBE Institute, University of Copenhagen. 
+This projects was completed at the Department of GeoGenetics, GLOBE Institute, University of Copenhagen and supervised by [Tobias Guldberg Frøslev](https://github.com/tobiasgf) and [Julian Regalado Perez](https://github.com/7PintsOfCherryGarcia). 
 
 
 
